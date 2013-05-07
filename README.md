@@ -2,9 +2,9 @@ drafts-ab-edit.py is a python script for manipulating the [Action Backups][backu
 
 Basic Instructions:
 
-1. Backup your existing actions in Drafts from the prefernces menu
-2. Run `drafts-ab-edit.py add ~/Dropbox/<file>.txt` to add the Dropbox Actions you want to create
-3. Restore your actions from the Drafts iOS app
+1. From the Drafts iOS app, backup your existing actions using the appropriate button in Preferences menu.
+2. From your mac, Run `drafts-ab-edit.py add ~/Dropbox/<file>.txt` to add the Dropbox Actions you want to create
+3. From the Drafts iOS app, restore your actions from the Drafts iOS app
 
 # Usage
 
