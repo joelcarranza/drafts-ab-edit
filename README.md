@@ -41,6 +41,10 @@ The script also supports removing action via the `rm` command and listing all ex
 
 Python 2.7, Drafts 3.0 
 
+# Disclaimer
+
+This is a giant hack. It makes direct modifications to your Drafts Action Backup folder in `~/Dropbox/Apps/Drafts/Settings/` and may do damange to your backups as a result. Backup your backups!  
+
 # License 
 
 This code is public domain.
