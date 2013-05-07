@@ -108,7 +108,7 @@ if __name__ == '__main__':
 	parser_add.add_argument('addfiles',nargs='+')
 	parser_add.add_argument('-t','--template',default='[[draft]]')
 	parser_add.add_argument('-tf','--templatefile')
-	parser_add.add_argument('-p','--pane',type=int,default=0)
+	parser_add.add_argument('-p','--pane',type=int,default=1)
 	parser_add.add_argument('-o','--out')
 	parser_add.add_argument('-i','--in',dest='infile')
 	parser_add.add_argument('--prefix',type=int,default=0)
