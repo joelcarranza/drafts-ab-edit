@@ -4,7 +4,7 @@ Basic Instructions:
 
 1. From the Drafts iOS app, backup your existing actions using the appropriate button in Preferences menu.
 2. From your mac, Run `drafts-ab-edit.py add ~/Dropbox/<file>.txt` to add the Dropbox Actions you want to create
-3. From the Drafts iOS app, restore your actions from the Drafts iOS app
+3. From the Drafts iOS app, restore your actions.
 
 # Usage
 
